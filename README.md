@@ -45,8 +45,9 @@ pip install -r requirements.txt
 
 ## MLflow
 
-[Documentation](https://mlflow.org/docs/latest/index.html)
-[MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+- [MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
 
 ##### cmd
 - mlflow ui
